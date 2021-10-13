@@ -1,1 +1,1 @@
-This is the readme-file
+Just a few files to try out GitHub
